@@ -189,14 +189,6 @@ Relocation costs usually depend on:
 
 <h2>Popular Relocation Service Providers Operating in Navi Mumbai</h2>
 
-<ul>
-<li>:contentReference[oaicite:4]{index=4}</li>
-<li>:contentReference[oaicite:5]{index=5}</li>
-<li>:contentReference[oaicite:6]{index=6}</li>
-<li>:contentReference[oaicite:7]{index=7}</li>
-<li>:contentReference[oaicite:8]{index=8}</li>
-<li>:contentReference[oaicite:9]{index=9}</li>
-</ul>
 
 <p>
 Navi Mumbai has a large network of professional relocation companies serving residential, office, and commercial moving requirements across local and intercity routes. 
